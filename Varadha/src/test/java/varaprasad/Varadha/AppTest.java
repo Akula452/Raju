@@ -1,4 +1,4 @@
-package Prasad.vara;
+package varaprasad.Varadha;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
